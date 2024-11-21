@@ -29,8 +29,13 @@
     {
       "name": "API Reference",
       "url": "api-reference"
+    },
+     {
+      "name": "Guides",
+      "url": "guides/integration-guide"
     }
   ],
+  
   "anchors": [
     {
       "name": "Documentation",
